@@ -3,4 +3,4 @@
 # beginner developer
 
 ## Skills
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logocolor=black)
+![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=3776AB&color=black)
